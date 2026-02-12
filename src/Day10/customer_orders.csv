@@ -1,0 +1,16 @@
+order_id,customer_name,product,price,quantity,order_date,city
+101, Alice ,Laptop,$70000,1,01-02-2026,Mumbai
+102,bob,mouse,$500,2,02-02-2026,delhi
+103,CHARLIE,Keyboard,$1500,,,Delhi 
+104,,Monitor,,1,01-02-2026,Bangalore
+105,David,,$12000,1,05-02-2026,Chennai
+105,David,,$12000,1,05-02-2026,Chennai
+106, Eve,Laptop,$70000,2,06-02-2026,
+107,Frank ,keyboard,$1500,,07-02-2026,Mumbai
+108,alice,Laptop,$70000,1,01-02-2026, mumbai 
+109,George,Mouse,$500,3,09-02-2026,Kolkata
+110,,Tablet,$25000,1,10-02-2026,Hyderabad
+111,Helen,Tablet,,1,,Hyderabad
+112,Ian,Laptop,$72000,,12-02-2026,Delhi
+113,Jack,Monitor,$12000,2,13-02-2026,
+113,Jack,Monitor,$12000,2,13-02-2026,
